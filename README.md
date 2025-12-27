@@ -1,4 +1,4 @@
-/* New Things Every Day — Day 80 */
+/* New Things Every Day — Da 80 */
 /* Generates a daily execution log with a random score */
 
 function dailyLog80() {
